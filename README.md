@@ -1,8 +1,13 @@
 # Neural Rule Lists: Learning Discretizations, Rules, and Order in One Go.
-This repository contains the implementation of <span style="font-variant: small-caps;">NeuRules</span>
-, an inherently interpretable and fully differentiable rule list classifier that jointly learns how to discretize continuous features into binary 
+This repository contains the implementation of <span style="font-variant: small-caps;">NeuRules</span>, an inherently interpretable and fully differentiable rule list classifier that jointly learns how to discretize continuous features into binary 
 conditions, how to select and combine these conditions into conjunctive rules, and how to order the rules into a list.
 The [paper](https://eda.rg.cispa.io/pubs/2025/neurules-xu,walter,vreeken.pdf) (Neurips 2025) describes the method in detail and provides extensive experimental evaluation.
+
+
+
+<p align="center">
+  <img src="figures/architecture.png" width="90%">
+</p>
 
 ## Basic Usage
 We implement <span style="font-variant: small-caps;">NeuRules</span>
