@@ -94,7 +94,7 @@ For datasets that are not obtained via the imodels/pmlb packages respectively, p
 If you find this code useful in your research, please cite our paper as follows:
 
 ```
-@inproceedings{xuneural,
+@inproceedings{xu_walter:20:neurules,
   title={Neural Rule Lists: Learning Discretizations, Rules, and Order in One Go},
   author={Xu, Sascha and Walter, Nils Philipp and Vreeken, Jilles},
   booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
